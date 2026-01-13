@@ -1,15 +1,21 @@
 # N_m3u8DL-RE-GUI-Miix
-一个 N_m3u8DL-RE 的图形界面版本 
+一个 N_m3u8DL-RE 的图形界面版本 已打包版本在release里
 # 项目起源 
 本项目基于 [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)  [N_m3u8DL-RE-GUI](https://github.com/wexuo/N_m3u8DL-RE-GUI)) 修改而来，特此感谢原作者的工作。
 
 主要修改包括：
-- 添加了存储和读取设置功能 可以一键读取
+- 添加了存储和读取设置配置功能 可以一键读取
 - 已打包并添加所有必须配置 无需配置python
 - 增加了自定义ffmpeg功能
 - 增加了几乎所有的N_m3u8DL-RE的高级功能选项
 - 部分兼容N_m3u8DL-CLI
+- 可清除日志
+- 默认存储以及加载最后一次的配置
 
+# 需要注意
+- 下载回溯的指定时间戳只能指定最近的m4s或ts等切片分段 无法精确指定
+- 如果报错请先指定好自带或者附带的ffmpeg.exe N_m3u8DL-RE.exe
+- 谨慎使用shaka-packager 容易报错
   
 
 
