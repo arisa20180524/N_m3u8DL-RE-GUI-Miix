@@ -1,5 +1,5 @@
 # N_m3u8DL-RE-GUI-Miix
-一个 N_m3u8DL-RE 的图形界面版本 已打包
+一个 N_m3u8DL-RE 的图形界面版本 
 # 项目起源 
 本项目基于 [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)  [N_m3u8DL-RE-GUI](https://github.com/wexuo/N_m3u8DL-RE-GUI)) 修改而来，特此感谢原作者的工作。
 
