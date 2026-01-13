@@ -17,7 +17,8 @@
 - 如果报错请先指定好自带或者附带的ffmpeg.exe N_m3u8DL-RE.exe
 - 谨慎使用shaka-packager 容易报错
   
-
+# 教程&使用方法
+参考 [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
 
 
 # 免责声明
